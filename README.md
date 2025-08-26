@@ -58,7 +58,7 @@ Este proyecto tiene como objetivo **desarrollar y evaluar un modelo de Machine L
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python 3.10+**
+- **Python 3.9.7**
 - **pandas**, **numpy** → Manipulación de datos
 - **matplotlib**, **seaborn** → Visualización
 - **scikit-learn** → Preprocesado, pipelines, regresión logística, LDA, Random Forest
