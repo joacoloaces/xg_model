@@ -52,7 +52,6 @@ Este proyecto tiene como objetivo **desarrollar y evaluar un modelo de Machine L
 ## 📈 Resultados
 
 - La **regresión logística** funciona como modelo base, con un buen balance entre interpretabilidad y rendimiento
-- **XGBoost y CatBoost** ofrecen mejoras en métricas como ROC-AUC y Brier Score, mostrando mayor capacidad para capturar relaciones no lineales  
 - El análisis muestra cómo el xG puede ser un **indicador robusto del rendimiento ofensivo de un equipo o jugador**
 
 ---
